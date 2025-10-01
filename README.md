@@ -22,3 +22,5 @@ Provides built-in functions for mathematical, logical, and statistical operation
 Core of NumPy = ndarray (N-dimensional array).
 
 Think of it as a super-powered list with fixed size and type.
+
+example
